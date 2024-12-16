@@ -15,7 +15,7 @@ Open the terminal and navigate to the folder, build it, and run it.
 
 ```bash
 #Skip this block on Powershell
-cd module-3-launch-package
+cd part-1/module-3-launch-package
 docker build . -t embedml/ros-humble-workshop:module-3
 ```
 
